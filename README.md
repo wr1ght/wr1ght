@@ -1,2 +1,2 @@
-<img src="https://i.imgur.com/hrhtin5.gif" width="800" height="700" />
+<img src="https://i.imgur.com/hrhtin5.gif" width="400" height="300" />
 
