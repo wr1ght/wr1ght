@@ -7,7 +7,7 @@
 
 ## Contact Me
 - Discord: `Kev#2316`
-  - **Ronnect Community**: [Invite](https://discord.gg)
+  - **Ronnect Community**: [Invite](https://ronnect.app/community)
 - Email: 
   - **Ronnect Support:** `support@ronnect.app`
   - **National Internet Services LLC:** `wright@nis.gg`
